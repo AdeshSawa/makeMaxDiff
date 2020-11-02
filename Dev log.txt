@@ -1,0 +1,17 @@
+Dev log
+    make quota
+        add defines
+        make sheet *
+
+    Template update
+        replace Q1 with Question name *
+        replace design file name
+        replae sheet name
+        update range(number of versions)
+        replae sheet name in exec
+        insert title
+        inser comment
+        update best label
+        update worse label
+        replace items
+        set loopros same number as items
